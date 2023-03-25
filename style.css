@@ -1,0 +1,53 @@
+.figma {
+    color: #495057;
+}
+
+.mainStyle{
+    margin: 20px;
+    padding: 10px;
+}
+
+.nav-link {
+    color: #0D6EFD !important;
+}
+
+.carousel-inner {
+    height: 600px !important;
+}
+
+.carousel-indicators{
+    bottom: 50px !important;
+}
+.carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 70vh;
+}
+
+.row{
+    row-gap: 20px;
+}
+
+.tableLink{
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.tableLink a{
+    text-decoration: none;
+}
+
+hr{
+    border-top: 3px dotted black;
+    border-bottom: 3px dotted black;
+    transform: rotateZ(90deg);
+    width: 10px;
+    margin: 0;
+    margin-bottom: 5px;
+    padding-bottom: 1px;
+
+}
+.table{
+    margin: 10px;
+}
